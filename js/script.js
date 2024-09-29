@@ -41,7 +41,7 @@ class Footer extends HTMLElement {
                   <a href="index.html" style = "color:white;">Home</a>
                 </li>
                 <li>
-                  <a href="services.html" style = "color:white;">Services</a>
+                  <a href="pricing.html" style = "color:white;">Pricing</a>
                 </li>
                 <li>
                   <a href="projects.html" style = "color:white;">Projects</a>
